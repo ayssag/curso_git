@@ -1,3 +1,5 @@
 Arquivo inicial - Modificado
 (Testando atualização remota)
 (Testando clone)
+
+arquivo sendo ignorado
